@@ -1,0 +1,191 @@
+﻿  main.cpp
+G:\CProjects\TinyRender\TinyRender\tgaimage.h(58,59): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(21,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(21,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(21,35): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(22,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(22,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(22,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(25,19): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(34,19): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(41,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(41,28): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(42,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(42,28): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(43,39): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(43,23): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(89,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\CProjects\TinyRender\TinyRender\main.cpp(174,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(175,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(176,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(177,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(185,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(185,18): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(218,19): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(218,14): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(244,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(244,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(275,97): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(275,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(282,106): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(282,83): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(282,61): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(319,107): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(319,84): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+G:\CProjects\TinyRender\TinyRender\main.cpp(319,61): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+G:\CProjects\TinyRender\TinyRender\geometry.h(64,1): warning C4244: '*=': conversion from 'const U' to 'T', possible loss of data
+          with
+          [
+              U=float
+          ]
+          and
+          [
+              T=int
+          ]
+G:\CProjects\TinyRender\TinyRender\main.cpp(102): message : see reference to function template instantiation 'vec<2,int> operator *<2,int,float>(vec<2,int>,const U &)' being compiled
+          with
+          [
+              U=float
+          ]
+  Generating code
+  13 of 397 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TinyRender.vcxproj -> G:\CProjects\TinyRender\x64\Release\TinyRender.exe
